@@ -56,6 +56,9 @@ Dashboard includes:
 * Subscription Analysis
 * Payment Method Distribution
 
+  <img width="1351" height="742" alt="project screan" src="https://github.com/user-attachments/assets/ca2b24f7-67bc-4480-bdb5-46daeb99c3c1" />
+
+
 ## Key Skills Demonstrated
 
 * Data Cleaning
